@@ -25,6 +25,7 @@ driver = webdriver.Chrome(options=options)
 
 def setUp():
     #print start day and time
+    s
     print(f'Start Date and Time{datetime.datetime.now()}')
 
     # browser full screen
